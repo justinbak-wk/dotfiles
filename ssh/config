@@ -1,0 +1,31 @@
+Host waiter
+    HostName 69.144.225.98
+    User juicetin
+    Port 50102
+
+Host networks
+    HostName csdept10.cs.mtech.edu
+    User jbak
+    ForwardX11 yes
+    ForwardAgent yes
+
+Host katie
+	Hostname katie.mtech.edu
+	User jbak
+
+Host lumen
+	HostName lumen.mtech.edu
+	User jbak
+
+Host robot
+	HostName 192.168.1.10
+	User nrmc
+
+Host pi
+	HostName 69.144.255.98
+	User pi
+	Port 50103
+
+Host webSci
+	HostName csdept16.cs.mtech.edu
+	User jbak
