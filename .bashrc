@@ -130,3 +130,4 @@ export TEXINPUTS=.:$HOME/share/latex//
 #export GO111MODULE=on
 export PATH="$PATH:/usr/lib/dart/bin"
 export PATH="$PATH":"$HOME/.pub-cache/bin"
+
