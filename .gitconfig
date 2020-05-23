@@ -1,0 +1,15 @@
+[alias]
+	sup = status
+	yeet = push
+	ci = commit
+	co = checkout
+	br = branch
+	yoink = pull
+	unstage = reset HEAD --
+	yank = fetch
+	vis = !gitkraken
+[user]
+	name = juice
+	email = jbak@mtech.edu
+[core]
+	editor = vim
